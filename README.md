@@ -3,5 +3,7 @@ This is the first line of text
 This is the 2nd line of text
 
 I am going to use **markdown** suntax from now on because it is __cool!__
-I am a student in [bioboot camp](https://github.com/nravooru/demo1_github.git) luck me ;-) 
+I am a student in [bioboot camp](https://github.com/nravooru/demo1_github.git) lucky me ;-) 
+
+This is the guide to [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
